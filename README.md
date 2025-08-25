@@ -1,2 +1,7 @@
-# password_manager
-A web app built with Flask + Regex + ML that evaluates password strength, checks against breached datasets, and gives real-time feedback. Highlights cryptography, authentication security, and practical web security skills.
+# Password Manager
+A secure password manager using AES encryption.
+
+## Features
+- Store and retrieve passwords securely
+- Master password authentication
+- Encrypted storage file
